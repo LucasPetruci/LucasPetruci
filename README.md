@@ -1,3 +1,4 @@
+
 <h3> Olá! Eu sou um desenvolvedor back-end apaixonado por criar soluções eficientes e escaláveis. Com experiência sólida no desenvolvimento de aplicativos web e conhecimento profundo das tecnologias mais recentes, estou sempre em busca de novos desafios para aprimorar minhas habilidades e agregar valor aos projetos em que estou envolvido. </h3>
 <br>
 
@@ -15,4 +16,4 @@
 
 
 ## Linguagens e Ferramentas
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,docker,postgres,figma,git,mysql,py&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,bootstrap,docker,postgres,mysql,git,py,vscode,figma,&theme=dark)](https://skills.thijs.gg)
