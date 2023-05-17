@@ -1,5 +1,5 @@
-## Olá! Eu sou um desenvolvedor back-end apaixonado por criar soluções eficientes e escaláveis. Com experiência sólida no desenvolvimento de aplicativos web e conhecimento profundo das tecnologias mais recentes, estou sempre em busca de novos desafios para aprimorar minhas habilidades e agregar valor aos projetos em que estou envolvido.
-
+<h3> Olá! Eu sou um desenvolvedor back-end apaixonado por criar soluções eficientes e escaláveis. Com experiência sólida no desenvolvimento de aplicativos web e conhecimento profundo das tecnologias mais recentes, estou sempre em busca de novos desafios para aprimorar minhas habilidades e agregar valor aos projetos em que estou envolvido. </h3>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height= 180em align="center" src="https://github-readme-stats.vercel.app/api?username=LucasPetruci&show_icons=true&theme=tokyonight" />
