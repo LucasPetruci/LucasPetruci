@@ -1,4 +1,4 @@
-## Olá me chamo Lucas Petruci, sou desenvolvedor back-end
+## Olá! Eu sou um desenvolvedor back-end apaixonado por criar soluções eficientes e escaláveis. Com experiência sólida no desenvolvimento de aplicativos web e conhecimento profundo das tecnologias mais recentes, estou sempre em busca de novos desafios para aprimorar minhas habilidades e agregar valor aos projetos em que estou envolvido.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
