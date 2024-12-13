@@ -42,6 +42,9 @@ Atualmente, trabalho com Flutter e Kotlin, aproveitando o melhor de cada tecnolo
 
 <br>
 
-![Visitantes no perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LucasPetruci&title=Visitantes)
+![Visitante](https://img.shields.io/badge/visitantes-0-blue?style=flat-square)
+
+
+
 
 
