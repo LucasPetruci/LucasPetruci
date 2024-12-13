@@ -40,8 +40,3 @@ Atualmente, trabalho com Flutter e Kotlin, aproveitando o melhor de cada tecnolo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPetruci&theme=default&hide_border=true" />
 </a>
-
-<br>
-<br>
-
-![Visitante](https://img.shields.io/badge/visitantes-0-blue?style=flat-square)
